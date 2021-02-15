@@ -12,8 +12,6 @@
         <string>GIMP</string>
         <key>MAJOR_OS_VERSION</key>
         <string>Mavericks</string>
-        <key>SEARCH_PATTERN</key>
-        <string>(?P&lt;url&gt;http.*?%MAJOR_OS_VERSION%.*?dmg)</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>applications</string>
         <key>APP_DESTINATION</key>
